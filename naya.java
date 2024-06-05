@@ -7,7 +7,6 @@ public class naya{
         // System.out.print("The Sum is: "+ sum);     
         float c = 45.78f;
         System.out.println(++c);
-        System.out.println(c);
 
 
     }
